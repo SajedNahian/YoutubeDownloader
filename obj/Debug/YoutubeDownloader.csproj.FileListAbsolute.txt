@@ -1,0 +1,15 @@
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe.config
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.exe
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeDownloader.pdb
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csprojAssemblyReference.cache
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Form1.resources
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.Properties.Resources.resources
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.GenerateResource.cache
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CoreCompileInputs.cache
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.exe
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.pdb
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExtractor.dll
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\bin\Debug\YoutubeExtractor.xml
+C:\Users\Sajed\source\repos\YoutubeDownloader\YoutubeDownloader\obj\Debug\YoutubeDownloader.csproj.CopyComplete
