@@ -7,6 +7,7 @@ using System.Globalization;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using YoutubeExtractor;
@@ -67,7 +68,11 @@ namespace YoutubeDownloader
             var videoDownloader = new VideoDownloader(video, Path.Combine(Application.StartupPath + "/", fileName_textbox.Text + video.VideoExtension));
 
             videoDownloader.DownloadProgressChanged += VideoDownloaderOnDownloadProgressChanged;
-            videoDownloader.Execute();
+            Thread thread = new Thread(() =>
+            {
+                videoDownloader.Execute();
+            }) {IsBackground = true};
+            thread.Start();
         }
 
         private void VideoDownloaderOnDownloadProgressChanged(object sender, ProgressEventArgs e)
